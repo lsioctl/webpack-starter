@@ -1,0 +1,1 @@
+console.log('Amazing, JavaScript works :D');
